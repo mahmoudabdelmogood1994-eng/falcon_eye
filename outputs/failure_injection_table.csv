@@ -1,0 +1,8 @@
+failure_mode,detected,warning_issued,warning_lead_time_s
+no_detection,False,False,
+intermittent,True,True,22.400000000000226
+biased_range,True,True,22.700000000000223
+false_detection_burst,True,True,23.80000000000022
+delayed_measurement,True,True,23.80000000000022
+datalink_dropout,True,True,23.80000000000022
+interference,True,True,22.200000000000227
